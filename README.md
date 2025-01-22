@@ -1,2 +1,2 @@
-# -textbf-Energy-Efficient-Motion-Control-System-for-Hostels
-Developed a motion sensor-based energy conservation system for hostel lighting, integrating PIR sensors to detect presence and control lights automatically. Achieved reduced electricity costs, lower carbon footprints, and a 90-day payback period, showcasing scalability and environmental benefits.
+# Energy-Efficient-Motion-Control-System-for-Hostels
+Developed and implemented a motion sensor-based energy conservation system tailored for hostel environments. The project involved integrating Passive Infrared (PIR) sensors with lighting systems to detect human presence and automatically control lighting. By optimizing energy usage, this system reduced electricity costs and carbon footprints, achieving a payback period of 90 days. The project demonstrated significant potential for scalability and highlighted environmental and economic benefits through energy efficiency.
